@@ -17,5 +17,5 @@ I transform raw data into meaningful insights using Python, SQL, and visualizati
 - Dashboard Project (Power BI)
 
 ### 📫 Connect with me
-- LinkedIn: [your-link]
-- Email: your@email.com
+- LinkedIn: KIMHAK KIMHO
+- Email: hokimhak@email.com
