@@ -11,11 +11,6 @@ I transform raw data into meaningful insights using Python, SQL, and visualizati
 - Power BI / Tableau
 - Data Cleaning & Visualization
 
-### 📂 Featured Projects
-- Sales Data Analysis (Python + Pandas)
-- Customer Segmentation (SQL)
-- Dashboard Project (Power BI)
-
 ### 📫 Connect with me
 - LinkedIn: KIMHAK KIMHO
 - Email: hokimhak@email.com
